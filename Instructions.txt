@@ -1,1 +1,14 @@
-
+// dealer is picked randomly and the position is rotated to the left every round. 
+the dealer gives each player 2 cards face down; the player can look at them indiviually.
+the dealer deals 3 cards faced up in the middle of the table and betting starts for the first round.
+players bet based on how their cards match up with the cards in the middle. 
+each round is a chance to bet out of 3 rounds. 
+each player must bet what one player bet each round
+usually there are a big and small blind which force someone to bet to get the game going
+the big blind is double the small blind 
+the small blind is to the direct left of the dealer and the big blind is to the direct left of the small blind, (they rotate according to the dealer's position)
+you can fold to leave the game until the next game, check by knocking on the table which says that you dont want to bet anything yet you still have to bet the amount of chips as another player, or bet the amount into the pot(usually middle of the table where all the other chips are)
+after the 5th card on the table is revealed and bet on everyone shows their cards. 
+whoever has the highest card match gets all the chips.
+when you run out of chips you lose.
+the game ends when there is one player is left. 
